@@ -4,6 +4,6 @@ class Api::V1::GreetingsController < ApplicationController
     @greetings = @greetings.map(&:greeting)
     @greetings = @greetings.sample 
     sleep 1
-    render json: { greeting: @greetings }
+    render json: @greetings
   end
 end
