@@ -89,7 +89,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 LINK TO REACT <a name="live-demo"></a>
 
 
-- [React](https://github.com/Bludidi/hello-react-front-end.git)
+- [React](https://github.com/Bludidi/hello-react-front-end/tree/new-feature )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
